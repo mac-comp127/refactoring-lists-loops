@@ -89,22 +89,6 @@ public class ListFormatting {
      *        help you.
      */
     public static String formatGrammaticallyWithOxfordComma(List<String> items) {
-        String result = "";
-        int itemNum = 0;
-        for (String item : items) {
-            if (itemNum > 0) {
-                if (items.size() > 2) {
-                    result += ", ";
-                } else {
-                    result += " ";
-                }
-                if (itemNum == items.size() - 1) {
-                    result += "and ";
-                }
-            }
-            result += item;
-            itemNum++;
-        }
-        return result;
+        return "not implemented yet";
     }
 }
