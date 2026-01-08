@@ -1,3 +1,3 @@
 # Activity: Refactoring with Lists and Loops
 
-Instructions are [here](https://comp127.innig.net/activities/refactoring_using_tests/).
+Instructions are [here](https://comp127.macalester.digital/latest/activities/refactoring_using_tests/).
